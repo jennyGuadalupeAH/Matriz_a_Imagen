@@ -1,5 +1,4 @@
-<h1>Procesamiento de Imagen a Matriz con OpenCV y NumPy
-Este script convierte una imagen en una matriz de píxeles utilizando las librerías OpenCV y NumPy.</h1>
+<h1>Procesamiento de Imagen a Matriz con OpenCV y NumPy</h1>
 <br>
 
 
